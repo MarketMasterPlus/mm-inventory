@@ -1,2 +1,12 @@
+```
+PUC-Rio
+Especialização em Desenvolvimento Fullstack
+Disciplina: Desenvolvimento Back-end Avançado
+
+Aluno: Rodrigo Alves Costa
+```
+
 # mm-inventory
-Inventory service of the Market Master Project.
+Product service of the Market Master Project.
+
+# Quick Start
