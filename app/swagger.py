@@ -11,9 +11,9 @@ def configure_swagger(app):
     # Initialize and configure the API for Swagger UI
     api = Api(
         app,
-        title="MM Product API",
+        title="MM Inventory API",
         version="1.0",
-        description="API for product management",
+        description="API for inventory management",
         doc="/docs"  # Change to /docs if you prefer a different endpoint
     )
     return api
